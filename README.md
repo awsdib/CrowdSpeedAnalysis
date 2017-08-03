@@ -2,7 +2,7 @@
 Estimating Pedestrian Speed using GPS Tracks
 
 <p align="center">
-  <img src="/images/Geo.jpg", width="350"/>  
+  <img src="/images/Geo.JPG", width="350"/>  
 </p>
 
 How to reproduce:
@@ -25,9 +25,6 @@ The executed operations are:
 <li>  3D plot for the track
 </ol>
 
-<p align="center">
-  <img src="/images/Geo_Areal.JPG", width="350"/>  
-</p>
 
 <h2>Results</h2>
 <p align="left">
