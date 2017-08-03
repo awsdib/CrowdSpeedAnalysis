@@ -15,6 +15,7 @@ How to reproduce:
 </ol>
 
 The executed operations are:
+----------------
 <ol>
 <li>  Clipping data based on "testarea"</li>
 <li>  Adding Average speed field and values </li>
