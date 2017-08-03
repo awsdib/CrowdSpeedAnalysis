@@ -2,7 +2,7 @@
 Estimating Pedestrian Speed using GPS Tracks
 
 <p align="center">
-  <img src="/Images/.PNG", width="350"/>  
+  <img src="/images/Geo.jpg", width="350"/>  
 </p>
 
 How to reproduce:
@@ -24,3 +24,16 @@ The executed operations are:
 <li>  Boxplot for average speed of the tracks</li>
 <li>  3D plot for the track
 </ol>
+
+<p align="center">
+  <img src="/images/Geo_Areal.JPG", width="350"/>  
+</p>
+
+<h2>Results</h2>
+<p align="left">
+  <img src="/images/figure_1.png", width="350"/>  
+</p>
+
+<p align="right">
+  <img src="/images/figure_2.png", width="350"/>  
+</p>
