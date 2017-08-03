@@ -32,6 +32,8 @@ The executed operations are:
   <img src="/images/figure_2.png", width="350"/>  
 </p>
 
+Tip: Expand the plot to fullscreen for better viewing
+
 This project was developed by :
 <ul>
   <li>Aws Dib</li>
