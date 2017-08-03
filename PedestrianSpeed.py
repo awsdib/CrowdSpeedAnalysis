@@ -432,8 +432,9 @@ mpl.rcParams['legend.fontsize'] = 15
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 
-ax.plot(lon_mean_back, lat_mean_back, speed_mean_back,"r-", label='Speed Along Stream')
-ax.plot(lon_mean_away, lat_mean_away, speed_mean_away,"g-", label='Speed Against Stream')
+ax.plot(lat_mean_away, lon_mean_away, speed_mean_away,"g-", label='Along Stream')
+ax.plot(lat_mean_back, lon_mean_back, speed_mean_back,"r-", label='Against Stream')
+
 
 #set legend, axes labels and title
 ax.legend()
