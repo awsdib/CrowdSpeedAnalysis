@@ -2,7 +2,7 @@
 Estimating Pedestrian Speed using GPS Tracks
 
 <p align="center">
-  <img src="/images/Geo.JPG", width="350"/>  
+  <img src="/images/Geo.JPG", width="500"/>  
 </p>
 
 How to reproduce:
