@@ -11,6 +11,7 @@ How to reproduce:
 <li>Download or clone the repo</li>
 <li>Move "testarea" vector data to the appropriate directory</li>
 <li>In the script "PedestrianSpeed.py", change Paths variables to you directories</li>
+<li>Copy the script into QGis python editor</li>
 <li>One-click execution</li>
 </ol>
 
