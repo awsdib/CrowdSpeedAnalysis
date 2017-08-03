@@ -27,10 +27,10 @@ The executed operations are:
 
 
 <h2>Results</h2>
-<p align="left" style="float:left">
+<p style="float:left">
   <img src="/images/figure_1.png", width="350"/>  
 </p>
 
-<p align="right" style="float:right">
+<p style="float:right">
   <img src="/images/figure_2.png", width="350"/>  
 </p>
