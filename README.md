@@ -29,7 +29,7 @@ The executed operations are:
 <h2>Results</h2>
 <p align="center">
   <img src="/images/figure_1.png", width="350"/>  
-  <img src="/images/figure_2.png", width="350"/>  
+  <img src="/images/figure_2.png", width="500"/>  
 </p>
 
 Tip: Expand the plot to fullscreen for better viewing
