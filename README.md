@@ -27,10 +27,7 @@ The executed operations are:
 
 
 <h2>Results</h2>
-<p style="float:left">
+<p align="center">
   <img src="/images/figure_1.png", width="350"/>  
-</p>
-
-<p style="float:right">
   <img src="/images/figure_2.png", width="350"/>  
 </p>
