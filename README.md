@@ -31,3 +31,11 @@ The executed operations are:
   <img src="/images/figure_1.png", width="350"/>  
   <img src="/images/figure_2.png", width="350"/>  
 </p>
+
+This project was developed by :
+<ul>
+  <li>Aws Dib</li>
+  <li>Monica MAGAN</li>
+  <li>Zhihao LIU</li>
+  <li>Leon Yan-Feng GAW</li>
+</ul>
