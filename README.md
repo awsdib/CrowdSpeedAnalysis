@@ -1,4 +1,4 @@
-# CrowdSpeedAnalysis
+# Crowd Speed Analysis
 Estimating Pedestrian Speed using GPS Tracks
 
 <p align="center">
