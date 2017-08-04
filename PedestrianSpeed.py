@@ -336,7 +336,7 @@ plt.subplot(1, 2, 2)
 
 # Plot a boxplot of the speeds of response flow
 plt.boxplot((filter(None, response_flow)))
-plt.xlabel('Response Flow')
+plt.xlabel('Against Flow')
 plt.tick_params(axis = 'x',
                 which = 'both',
                 bottom = 'off',
@@ -432,8 +432,9 @@ mpl.rcParams['legend.fontsize'] = 15
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 
-ax.plot(lat_mean_away, lon_mean_away, speed_mean_away,"g-", label='Along Stream')
-ax.plot(lat_mean_back, lon_mean_back, speed_mean_back,"r-", label='Against Stream')
+ax.plot(lat_mean_back, lon_mean_back, speed_mean_back,"r-", label='Against Flow')
+ax.plot(lat_mean_away, lon_mean_away, speed_mean_away,"g-", label='Stream Flow')
+
 
 
 #set legend, axes labels and title
